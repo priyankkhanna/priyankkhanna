@@ -4,9 +4,9 @@
 ##### These days -
 - 🔭 I’m working on commodies price forcasting.
 - 🌱 I’m learning MLOps.
-- 📖 I'm reading why we sleep by Matthew Walker
+- 📖 I'm reading why we sleep by Matthew Walker.
 - 💬 I like to talk about data science, psychology, books and table tennis.
-- 📫 You can reach me using <a href="maito:priyankkhanna2001@gmail.com">priyankkhanna2001@gmail.com</a>
+- 📫 You can reach me using <a href="maito:priyankkhanna2001@gmail.com">priyankkhanna2001@gmail.com</a>.
 
 <!--
 - 👯 I’m looking to collaborate on ...
