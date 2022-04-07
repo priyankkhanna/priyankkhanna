@@ -6,7 +6,7 @@
 - 🌱 I’m learning MLOps.
 - 📖 I'm reading why we sleep by Matthew Walker.
 - 💬 I like to talk about data science, psychology, books and table tennis.
-- 📫 You can reach me using <a href="maito:priyankkhanna2001@gmail.com">priyankkhanna2001@gmail.com</a>.
+- 📫 Connect with me on LinkedIn <a href="https://www.linkedin.com/in/priyank-khanna/">Priyank Khanna</a>.
 
 <!--
 - 👯 I’m looking to collaborate on ...
