@@ -4,7 +4,7 @@
 ##### These days -
 - 🔭 I’m working on product price prediction.
 - 🌱 I’m learning MLOps.
-- 📖 I'm reading what do you say after you say hello by Eric Berne.
+- 📖 I'm an avid reader.
 - 💬 I like to talk about data science, psychology, books and table tennis.
 - 📫 Connect with me on LinkedIn <a href="https://www.linkedin.com/in/priyank-khanna/">Priyank Khanna</a>.
 
